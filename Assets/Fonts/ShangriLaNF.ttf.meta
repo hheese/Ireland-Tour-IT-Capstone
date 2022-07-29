@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6dc6f81e9096486cb06342330b4e59c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shangri La NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 801a0922a51ad464f93530620cd7334c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
