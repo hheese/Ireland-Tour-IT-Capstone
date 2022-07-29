@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/_Menu.unity
+    guid: 383df97409b4242abb0ebfca3a7802b4
+  - enabled: 1
+    path: Assets/Scenes/360_Images/360_Image_CemeteryPlaques.unity
+    guid: cd4bd1f7892074e079a9fb6352791581
+  - enabled: 1
+    path: Assets/Scenes/360_Images/360_Image_HistoryMuseum.unity
+    guid: a7e9e09168aba47d8beca0ad14f4441f
+  - enabled: 1
+    path: Assets/Scenes/360_Images/360_Image_ParnellStreet.unity
+    guid: eb11ca99eaa414fc08ff65cc1601da49
+  - enabled: 1
+    path: Assets/Scenes/360_Images/360_Image_WarMemorialGardens.unity
+    guid: 78f9e56e186304607b5c5bc43695d9c2
+  - enabled: 1
+    path: Assets/Scenes/360_Videos/360_Video_GPO.unity
+    guid: 427211a3ba5274a8b88f3eb75ed637d5
+  - enabled: 1
+    path: Assets/Scenes/360_Videos/360_Video_StephensGreen.unity
+    guid: 5ad15868357014c1b9a8f8ed4b5f2f21
+  - enabled: 0
+    path: Assets/Scenes/_Object_Empty.unity
+    guid: 5a32e092e3fe44c3191d5ac2e0ceb5f1
+  - enabled: 1
+    path: Assets/Scenes/Objects/Ain Aisling Poem.unity
+    guid: fd48b579658ed4d55afde2c5d9a206e7
+  - enabled: 1
+    path: Assets/Scenes/Objects/Bernardo O'Higgins.unity
+    guid: 92ac733edfec749939bc1a986d4fa508
+  - enabled: 1
+    path: Assets/Scenes/Objects/British RIC Cadet.unity
+    guid: 2eb1294d8da5d4cbab988690213a077c
+  - enabled: 1
+    path: Assets/Scenes/Objects/ChildrenOfLir.unity
+    guid: 8053635b08a404e15891e397b1331f98
+  - enabled: 1
+    path: Assets/Scenes/Objects/ConstanceMarkievics.unity
+    guid: 334b83ce329944c61a969f1e8c3732a3
+  - enabled: 1
+    path: Assets/Scenes/Objects/Declaration of Provisional Government.unity
+    guid: 49b58881dc51c46e4affa649275c707f
+  - enabled: 1
+    path: Assets/Scenes/Objects/FallenSoldierMonument.unity
+    guid: a99e99907cb6b4e3c9fcc9e6667e8ee3
+  - enabled: 1
+    path: Assets/Scenes/Objects/FiannaEireann.unity
+    guid: 9078066d4a8aa4df0abbe9523a547f7b
+  - enabled: 1
+    path: Assets/Scenes/Objects/FlagsOfEasterRising.unity
+    guid: 419ee465462b047ee8d5e6e8da4bea83
+  - enabled: 1
+    path: Assets/Scenes/Objects/Forgotten 10 Memorial.unity
+    guid: 3871e845741f74143a886919fdb2b232
+  - enabled: 1
+    path: Assets/Scenes/Objects/Fourth IRA Battalion Memorial.unity
+    guid: a488c234e7c1f4e59a4e083d820e7fe9
+  - enabled: 1
+    path: Assets/Scenes/Objects/Garden Fence.unity
+    guid: 4a0fc5d2ba670496aae4bec6720c42ee
+  - enabled: 1
+    path: Assets/Scenes/Objects/George Russell.unity
+    guid: 16a535205caf14113a38606425b6ae89
+  - enabled: 1
+    path: Assets/Scenes/Objects/Henry Grattan.unity
+    guid: 1afd1447e7ef0418f9da5cbb5cdcc34f
+  - enabled: 1
+    path: Assets/Scenes/Objects/JamesConnolly.unity
+    guid: 7c17ebb8725fd4d97bcdc3447551530b
+  - enabled: 1
+    path: Assets/Scenes/Objects/Jeremiah O'Donovan Rossa.unity
+    guid: 5d459a237e69f4567be3943e374c5008
+  - enabled: 1
+    path: Assets/Scenes/Objects/LiamMellows.unity
+    guid: 448f5ad1c4f2e4e2d8bfa2750bba9fc9
+  - enabled: 1
+    path: Assets/Scenes/Objects/Michael Collins Bust.unity
+    guid: e36882c6f5959435ea65197de8440ef7
+  - enabled: 1
+    path: Assets/Scenes/Objects/Michael Collins Grave.unity
+    guid: 92c7f0e3406d24dd389f7e5a798ca500
+  - enabled: 1
+    path: Assets/Scenes/Objects/Mount St Battle Memorial.unity
+    guid: a8688f098932c40f5a64db30312575b3
+  - enabled: 1
+    path: Assets/Scenes/Objects/MountStBridge.unity
+    guid: 210a75bb32c1a4a5ba4feaf1c35a420d
+  - enabled: 1
+    path: Assets/Scenes/Objects/OscarWilde.unity
+    guid: aba1d2958e46c4f7aabbaef3e1b5789e
+  - enabled: 1
+    path: Assets/Scenes/Objects/QuoteStoneFemale.unity
+    guid: 5287a151ae6b04665bb4fc8841a4b865
+  - enabled: 1
+    path: Assets/Scenes/Objects/QuoteStoneMale.unity
+    guid: 9c0110219501b48aa9060547f9978e77
+  - enabled: 1
+    path: Assets/Scenes/Objects/Rememberance Poem.unity
+    guid: 5c4399aae3a984b2a875e8033748f5c9
+  - enabled: 1
+    path: Assets/Scenes/Objects/RobertEmmet.unity
+    guid: c7594eb7e331745828b44ffdaa009a26
+  - enabled: 1
+    path: Assets/Scenes/Objects/SeanHeuston.unity
+    guid: 9f68d7a36981d4331adeb3152fced284
+  - enabled: 1
+    path: Assets/Scenes/Objects/Statue Depicting Eire.unity
+    guid: 8290e9a5e84484d7d825d3142cf29cbd
+  - enabled: 1
+    path: Assets/Scenes/Objects/Their Name Livith For Evermore.unity
+    guid: 0f0261e1c3c0a485fa8691f9bf1e9bc0
+  - enabled: 1
+    path: Assets/Scenes/Objects/United Ireland Plaque.unity
+    guid: 371d07df3d34c4a6386cc00b9cea7fe6
+  - enabled: 1
+    path: Assets/Scenes/Objects/Wolfe Tone.unity
+    guid: 8cff74a226a294b55a499ec2bdad88f1
+  m_configObjects: {}
